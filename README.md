@@ -6,6 +6,7 @@
 | Complete Project Structure File On React Tailwind CSS | [Open](https://github.com/ikramuzzaman455173/complete-react-project-setup-structure-file) | Complete project structure for React with Tailwind CSS. |
 | Basic Simple React Starter Templates Repository | [Open](https://github.com/ikramuzzaman455173/basic-react-starter-templates) | Basic Simple React Starter Templates Repository. |
 | React Typescript Tailwind Starter Templates Repository | [Open](https://github.com/ikramuzzaman455173/react-typescript-tailwind-starter-templates) | React Typescript Tailwind Starter Templates Repository. |
+| React Typescript Tailwind Redux Starter Templates Repository | [Open](https://github.com/ikramuzzaman455173/react-typescript-tailwind-redux-starter-template) | React Typescript Tailwind Redux Starter Templates Repository |
 
 
 
