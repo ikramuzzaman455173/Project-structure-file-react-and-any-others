@@ -9,6 +9,7 @@
 | React Typescript Tailwind Redux Starter Templates Repository | [Open](https://github.com/ikramuzzaman455173/react-typescript-tailwind-redux-starter-template) | React Typescript Tailwind Redux Starter Templates Repository |
 | React Typescript Tailwind Redux Baisc Layout Setup Starter Templates Repository| [Open](https://github.com/ikramuzzaman455173/react-typescript-tailwind-redux-starter-layout-setup-template) | React Typescript Tailwind Redux Baisc Layout Setup Starter Templates Repository |
 | ReactJs Login Register Authenication System Starter Templates | [Open](https://github.com/ikramuzzaman455173/authenication-react-js-starter-template) | ReactJs Login Register Authenication System Starter Templates |
+| NextJS Starter Templates With Dashboard Layout | [Open](https://github.com/ikramuzzaman455173/next-js-starter-template) | NextJS Starter Templates With Dashboard Layout |
 
 
 
